@@ -13,13 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    introTitle: 'Mai Hạnh à!',
-    introDesc: `Tối chơi game dới anh nheeeeeeeee`,
-    btnIntro: 'Chơi qq',
-    title: 'Tối nay 8h chơi game với anh nheeeeeee 😙',
-    desc: 'Chơi thì chơi hong chơi cũng chơiiiii ',
-    btnYes: 'Dạ anh iuuuuuuu',
-    btnNo: 'Ai gảnh',
+    messDesc: 'Tối nay 8h chơi game nhé công chúa.',
+    btnAccept: 'Dạ anh iuuuuuu <3',
     messLink: 'https://www.facebook.com/tuan.pha.37/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
