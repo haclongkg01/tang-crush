@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    btnIntro: 'Kêu qq',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là yêu anh <33',
@@ -14,7 +14,9 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    messDesc: 'Tối nay 7h chơi game nhé công chúa.',
-    btnAccept: 'Ai gảnh',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Tối nay 8h chơi game với anh nheeeeeee 😙',
+    desc: 'Chơi thì chơi hong chơi cũng chơiiiii ',
+    btnYes: 'Dạ anh iuuuuuuu',
+    btnNo: 'Ai gảnh',
+    messLink: 'https://www.facebook.com/tuan.pha.37/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
